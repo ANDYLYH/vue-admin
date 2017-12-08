@@ -1,6 +1,4 @@
-﻿# vue-adminLte-vue-router
-
-by liujians [http://liujians.me](http://liujians.me)
+﻿
 
 [adminLte](https://almsaeedstudio.com/themes/AdminLTE/index2.html)：很好看的一套管理系统框架，适合做SPA应用
 
